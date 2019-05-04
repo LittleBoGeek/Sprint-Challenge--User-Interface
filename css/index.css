@@ -164,14 +164,13 @@ span {
 
 .header {
     position:absolute;
-    margin-left:100px;
+    margin-left:330px;
     margin-top:10px;
     display:flex;
 }
 
 .menu {
     position:absolute;
-    margin-top:-10px;
     margin-left:200px;
     display:flex;
 
@@ -197,4 +196,120 @@ margin-top:80px;
 .p1{
     position: absolute;
     margin-top:285px;
+}
+.line1 {
+    color:black;
+    position: absolute;
+    margin-top:360px;
+}
+
+.imgpair1 {
+    display:flex;
+    justify-content: space-evenly;
+    margin-top:370px;
+}
+
+.stratheader {
+    color:purple;
+    margin-left:20px;
+    margin-top:645px;
+    position: absolute;
+
+}
+
+.howclass{
+    position:absolute;
+    color:green;
+    margin-top: 13px;
+    margin-left:410px;
+}
+
+.para1{
+    position: absolute;
+    margin-top:700px;
+width:300px;
+}
+
+
+
+.para2 {
+    position: absolute;
+    margin-top:700px;
+    margin-left:400px;
+width:300px;
+color:purple;
+    
+}
+
+.imgpair2{
+    display:flex;
+   justify-content: space-evenly;
+   margin-top:200px;
+}
+
+.learnmore1 {
+position: relative;
+top:790px;
+border:0.5px solid black;
+width:140px;
+height:45px;
+text-align:center;
+vertical-align: center;
+border-radius:10px;
+padding:10px;
+
+
+  
+}
+
+.learnmore2 {
+    position:relative;
+    color:blue;
+    bottom:350px;
+    left:400px;
+    border:0.5px solid black;
+width:140px;
+height:45px;
+text-align:center;
+vertical-align: center;
+border-radius:10px;
+padding:10px;
+
+
+}
+
+.line2 {
+    color:orange;
+    position: absolute;
+    margin-top:-350px;
+    
+}
+
+.places {
+    position: relative;
+    color:green;
+    margin-top:15px;
+    left:15px;
+}
+
+.collab{
+    position:relative;
+    color:red;
+    bottom:160px;
+    left:405px;
+}
+
+.para3 {
+    position: relative;
+width:300px;
+color:pink;
+    
+}
+
+.para4 {
+    position:relative;
+    color:green;
+    width:300px;
+    bottom:160px;
+    left:405px;
 }
